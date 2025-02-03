@@ -1,5 +1,5 @@
 
-const API_KEY = "4746a4575eba45e38eb21e924a8be975";
+const API_KEY = "";
 const news = [];
 const bookmarkedArticles = [];
 let page = 1;
